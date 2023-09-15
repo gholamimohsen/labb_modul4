@@ -5,6 +5,7 @@ public class italienskt {
         System.out.println("flingsalt");
         System.out.println("svartpeppar, nymald");
         System.out.println("10 soltorkade tomater, i olja");
+        System.out.println("1 klyfta vitlök");
     }
 
 }
