@@ -9,6 +9,8 @@ public class bolognese {
     2 msk Zeta Tomatpuré
     1 köttbuljongtärning
     2 lagerblad
+    1 tsk torkad timjan
+
 
 
 
