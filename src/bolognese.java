@@ -8,6 +8,8 @@ public class bolognese {
             1 förp krossade tomater
     2 msk Zeta Tomatpuré
     1 köttbuljongtärning
+    2 lagerblad
+
 
 
 
