@@ -6,6 +6,7 @@ public class italienskt {
         System.out.println("svartpeppar, nymald");
         System.out.println("10 soltorkade tomater, i olja");
         System.out.println("1 klyfta vitlök");
+        System.out.println("0,5 röd chilifrukt, utan kärnor");
     }
 
 }
