@@ -4,6 +4,7 @@ public class italienskt {
         System.out.println("8 kycklinglårfiléer, med skinn");
         System.out.println("flingsalt");
         System.out.println("svartpeppar, nymald");
+        System.out.println("10 soltorkade tomater, i olja");
     }
 
 }
