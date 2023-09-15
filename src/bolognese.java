@@ -7,6 +7,7 @@ public class bolognese {
             1 dl Zeta Matlagningsvin Vitt
             1 förp krossade tomater
     2 msk Zeta Tomatpuré
+    1 köttbuljongtärning
 
 
 
