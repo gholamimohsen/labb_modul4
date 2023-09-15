@@ -11,6 +11,8 @@ public class bolognese {
     2 lagerblad
     1 tsk torkad timjan
     1 tsk torkad oregano
+            salt
+
 
 
 
