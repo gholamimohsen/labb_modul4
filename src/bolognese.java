@@ -4,10 +4,12 @@ public class bolognese {
      1 gul lök, finhackad
             2 klyftor vitlök, finhackade
             1 stjälk stjälkselleri, finhackad
+            1 dl Zeta Matlagningsvin Vitt
 
 
 
 
-    }
+
+}
 
 
