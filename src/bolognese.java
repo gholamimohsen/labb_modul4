@@ -13,6 +13,7 @@ public class bolognese {
     1 tsk torkad oregano
             salt
     nymalen svartpeppar
+            1 förp Zeta Tagliatelle Casa Di Luca
 
 
 
