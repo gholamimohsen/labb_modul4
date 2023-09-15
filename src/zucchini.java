@@ -14,6 +14,7 @@ public class zucchini {
         System.out.println(1);
         int a=1;
         int b =2;
+        int c=3;
 
     }
 }
