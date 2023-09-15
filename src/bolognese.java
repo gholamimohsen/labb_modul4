@@ -3,6 +3,7 @@ public class bolognese {
      4 msk Zeta extra jungfruolivolja classico
      1 gul lök, finhackad
             2 klyftor vitlök, finhackade
+            1 stjälk stjälkselleri, finhackad
 
 
 
