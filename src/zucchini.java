@@ -12,5 +12,6 @@ public class zucchini {
                 "rapsolja, till stekning\n" +
                 "salt");
         System.out.println(1);
+        int a=1;
     }
 }
