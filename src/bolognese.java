@@ -23,6 +23,8 @@ public class bolognese {
     genomstekt.
    2. Stek nötfärs på hög värme i olivolja i en gryta tills färsen är
     genomstekt.
+            3. Stek ytterligare 1 minut.
+
 
 
 
