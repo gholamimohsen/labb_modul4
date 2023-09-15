@@ -13,7 +13,7 @@ public class italienskt {
         System.out.println("1,5 dl vispgrädde");
         System.out.println("1 dl parmesanost, fint riven");
         System.out.println("Till servering");
-
+        System.out.println("8 körsbärstomater");
 
     }
 
