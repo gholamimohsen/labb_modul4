@@ -16,3 +16,5 @@ public class kycklinggryta {
     Skölj, kärna ur och skär paprikan i bitar.
     Skala och skär löken i klyftor.
     Bryn kycklingen i smör i en stor gryta.
+    Tillsätt paprika, lök, curry och paprikapulver och låt fräsa cirka 3
+    minuter.
