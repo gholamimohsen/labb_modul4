@@ -10,6 +10,7 @@ public class bolognese {
     1 köttbuljongtärning
     2 lagerblad
     1 tsk torkad timjan
+    1 tsk torkad oregano
 
 
 
