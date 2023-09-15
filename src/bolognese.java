@@ -28,6 +28,9 @@ public class bolognese {
         5. Låt koka upp och lägg i buljongtärning och örter, låt puttra ca 45
     minuter under lock.
         6. Rör regelbundet och späd eventuellt med lite vatten.
+    7. Smaka av med salt och peppar och servera med nykokt pasta och
+    Grana Padano.
+
 
 
 
