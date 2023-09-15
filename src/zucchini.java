@@ -15,6 +15,9 @@ public class zucchini {
         int a=1;
         int b =2;
         int c=3;
-
+        System.out.println("Snabbmarinerad isbergssallad\n" +
+                "0,5 isbergssallad, fint strimlat\n" +
+                "1 citron, skalet rivet och saften pressad\n" +
+                "0,5 dl olivolj");
     }
 }
