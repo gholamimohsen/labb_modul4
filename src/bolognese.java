@@ -5,6 +5,7 @@ public class bolognese {
             2 klyftor vitlök, finhackade
             1 stjälk stjälkselleri, finhackad
             1 dl Zeta Matlagningsvin Vitt
+            1 förp krossade tomater
 
 
 
