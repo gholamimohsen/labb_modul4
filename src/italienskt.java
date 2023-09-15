@@ -15,6 +15,8 @@ public class italienskt {
         System.out.println("Till servering");
         System.out.println("8 körsbärstomater");
         System.out.println("0,5 kruka basilika");
+        System.out.println("4 port pasta, kokt");
+
 
 
     }
