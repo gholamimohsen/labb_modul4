@@ -9,3 +9,4 @@ public class kycklinggryta {
 2 dl crème fraîche
 2 msk koncentrerad apelsinjuice
 2 msk kinesisk soja
+2 krm svartpeppar
