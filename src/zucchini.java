@@ -21,5 +21,6 @@ public class zucchini {
                 "0,5 dl olivolj");
         System.out.println("abc");
         int a=0;
+        int g=6;
     }
 }
