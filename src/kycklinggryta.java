@@ -6,5 +6,5 @@ public class kycklinggryta {
         ca 3 msk curry
 1 msk paprikapulver
 5 dl vispgrädde
-
-}
+2 dl crème fraîche
+2 msk koncentrerad apelsinjuice
