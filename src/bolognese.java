@@ -12,6 +12,8 @@ public class bolognese {
     1 tsk torkad timjan
     1 tsk torkad oregano
             salt
+    nymalen svartpeppar
+
 
 
 
