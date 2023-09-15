@@ -25,5 +25,6 @@ public class zucchini {
         System.out.println("Dillyoghurt\n");
         System.out.println("2 dl grekisk yoghurt");
         String a="0,5 knippe dill, fint skuren";
+        int x=3;
     }
 }
