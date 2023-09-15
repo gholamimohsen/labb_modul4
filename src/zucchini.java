@@ -11,5 +11,6 @@ public class zucchini {
                 "0,5 citron, skalet rivet\n" +
                 "rapsolja, till stekning\n" +
                 "salt");
+        System.out.println(1);
     }
 }
