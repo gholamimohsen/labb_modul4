@@ -1,4 +1,10 @@
 public class bolognese {
-    // 700 g kycklingfilé
-    //
-}
+     400g nöttfärs
+     4 msk Zeta extra jungfruolivolja classico
+     1 gul lök, finhackad
+
+
+
+    }
+
+
