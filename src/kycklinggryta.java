@@ -10,3 +10,6 @@ public class kycklinggryta {
 2 msk koncentrerad apelsinjuice
 2 msk kinesisk soja
 2 krm svartpeppar
+
+
+    Skär kycklingfiléerna i bitar.
