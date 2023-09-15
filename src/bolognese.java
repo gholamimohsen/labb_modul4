@@ -27,6 +27,8 @@ public class bolognese {
             4. Lägg i tomatpuré, vitt vin och krossade tomater.
         5. Låt koka upp och lägg i buljongtärning och örter, låt puttra ca 45
     minuter under lock.
+        6. Rör regelbundet och späd eventuellt med lite vatten.
+
 
 
 
