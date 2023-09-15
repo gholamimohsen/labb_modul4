@@ -31,6 +31,8 @@ public class zucchini {
         int son=54;
         int bitsin=58;
         System.out.println("cok yoruldum");
+        int bitti=0;
+
 
     }
 }
