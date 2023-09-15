@@ -9,6 +9,7 @@ public class italienskt {
         System.out.println("0,5 röd chilifrukt, utan kärnor");
         System.out.println("1 tsk torkad timjan");
         System.out.println("1 tsk torkad oregano");
+        System.out.println("3 dl kycklingbuljong");
 
     }
 
