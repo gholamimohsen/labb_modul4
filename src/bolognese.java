@@ -24,6 +24,7 @@ public class bolognese {
    2. Stek nötfärs på hög värme i olivolja i en gryta tills färsen är
     genomstekt.
             3. Stek ytterligare 1 minut.
+            4. Lägg i tomatpuré, vitt vin och krossade tomater.
 
 
 
