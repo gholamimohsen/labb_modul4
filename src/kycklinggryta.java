@@ -4,8 +4,7 @@ public class kycklinggryta {
 2 gula lökar
 2 msk smör, att steka i
         ca 3 msk curry
-
-
+1 msk paprikapulver
 
 
 }
