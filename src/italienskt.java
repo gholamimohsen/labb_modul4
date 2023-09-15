@@ -11,6 +11,7 @@ public class italienskt {
         System.out.println("1 tsk torkad oregano");
         System.out.println("3 dl kycklingbuljong");
         System.out.println("1,5 dl vispgrädde");
+        System.out.println("1 dl parmesanost, fint riven");
 
     }
 
