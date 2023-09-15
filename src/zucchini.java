@@ -29,6 +29,7 @@ public class zucchini {
 
         int f=9;
         int son=54;
+        int bitsin=58;
 
     }
 }
