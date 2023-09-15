@@ -14,3 +14,4 @@ public class kycklinggryta {
 
     Skär kycklingfiléerna i bitar.
     Skölj, kärna ur och skär paprikan i bitar.
+    Skala och skär löken i klyftor.
