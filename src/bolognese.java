@@ -21,6 +21,9 @@ public class bolognese {
     Instruktion:
     1. Stek nötfärs på hög värme i olivolja i en gryta tills färsen är
     genomstekt.
+   2. Stek nötfärs på hög värme i olivolja i en gryta tills färsen är
+    genomstekt.
+
 
 
 
