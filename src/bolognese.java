@@ -15,7 +15,13 @@ public class bolognese {
     nymalen svartpeppar
             1 förp Zeta Tagliatelle Casa Di Luca
     Zeta Grana Padano 16 mån, nyriven
+
+
+
     Instruktion:
+    1. Stek nötfärs på hög värme i olivolja i en gryta tills färsen är
+    genomstekt.
+
 
 
 
