@@ -23,5 +23,6 @@ public class zucchini {
         int a=0;
         int g=6;
         System.out.println("Dillyoghurt\n");
+        System.out.println("2 dl grekisk yoghurt");
     }
 }
