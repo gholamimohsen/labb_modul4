@@ -18,3 +18,5 @@ public class kycklinggryta {
     Bryn kycklingen i smör i en stor gryta.
     Tillsätt paprika, lök, curry och paprikapulver och låt fräsa cirka 3
     minuter.
+    Tillsätt vispgrädde, crème fraiche, apelsinjuice, soja och peppar. Låt
+    bli varmt och se till att kycklingen är genomstekt. Servera!
