@@ -19,5 +19,6 @@ public class zucchini {
                 "0,5 isbergssallad, fint strimlat\n" +
                 "1 citron, skalet rivet och saften pressad\n" +
                 "0,5 dl olivolj");
+        System.out.println("abc");
     }
 }
