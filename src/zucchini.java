@@ -6,5 +6,10 @@ public class zucchini {
                 "2 dl vetemjöl\n");
         System.out.println("6 ägg");
         System.out.println("2 dl");
+        System.out.println("250 g fetaost\n" +
+                "0,5 knippe färsk dill, grovt skuren\n" +
+                "0,5 citron, skalet rivet\n" +
+                "rapsolja, till stekning\n" +
+                "salt");
     }
 }
