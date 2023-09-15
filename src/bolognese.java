@@ -25,6 +25,9 @@ public class bolognese {
     genomstekt.
             3. Stek ytterligare 1 minut.
             4. Lägg i tomatpuré, vitt vin och krossade tomater.
+        5. Låt koka upp och lägg i buljongtärning och örter, låt puttra ca 45
+    minuter under lock.
+
 
 
 
