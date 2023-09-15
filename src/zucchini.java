@@ -28,5 +28,7 @@ public class zucchini {
         int x=3;
 
         int f=9;
+        int son=54;
+
     }
 }
