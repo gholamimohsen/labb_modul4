@@ -4,5 +4,6 @@ public class zucchini {
         System.out.println("1 purjolök\n" +
                 "6 ägg\n" +
                 "2 dl vetemjöl\n");
+        System.out.println("6 ägg");
     }
 }
